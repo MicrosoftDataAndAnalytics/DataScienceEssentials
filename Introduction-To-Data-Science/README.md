@@ -7,11 +7,11 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**Introduction to Data Science** provides a high-level overview of data science theory. 
+**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
 
-**Data Science Process** contains lecture material introduces the process data scientist use to approach problems. There are notes on historical approaches to data mining and data science.    
+**Data Science Process** contains lecture material introduces the process data scientist use to approach problems. There are notes on historical approaches to data mining and data science.    [NEED LINK]
 
-**Introduction to Machine Learning** introduces students to the basic concepts of machine learning theory. 
+**Introduction to Machine Learning** introduces students to the basic concepts of machine learning theory. [NEED LINK]
 
 ## Videos  
 
