@@ -15,11 +15,15 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-Lab 1 - Getting Started with Azure Machine Learning.
+Lab 1 - Getting Started with Azure Machine Learning. In this lab, you will learn how to open and navigate the Microsoft Azure Machine Learning (Azure ML) Studio. You will also learn how to create and run experiments in Azure ML.
 
 ## Data
 
-**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
+This lab uses one data set:
+Credit-Scoring-Clean.csv - contains 950 customer cases. The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
+https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
+
+
 
 ## Code
 
