@@ -71,7 +71,7 @@ This section contains a summary of the contents of each folder.
 
 The following labs teach students advanced techniques using the the R or Python language. Each of these labs offer parallel tracks for either R or Python language users.  
 
-- **Lab 1** in the [Introduction to Data Science] folder (https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Introduction-To-Data-Science) walks students through to get started with Azure Machine Learning as well as how to create and run experiments.
+- **Lab 1** in the [Introduction to Data Science](https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Introduction-To-Data-Science) walks students through to get started with Azure Machine Learning as well as how to create and run experiments.
 - **Lab 2** in the [Probability and Statistics for Data Science] folder (https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Probability-and-Statistics-for-Data-Science) covers how to work with Summary staistics.
 - **Lab 3** in the [Simulation and Hypothesis Testing] folder (https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Simulation-and-Hypothesis-Testing) will estimate the range of expected profitability for a lemonade stand.
 - **Lab 4** in the [Exploring and Visualizing Data] folder (https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Exploring-and-Visualizing-Data) covers how to use R or Python to visualize and explore data. Two data sets are visualized: Automobiles and Adult Census data.
