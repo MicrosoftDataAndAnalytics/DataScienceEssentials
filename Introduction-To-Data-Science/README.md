@@ -1,12 +1,9 @@
 
 
-# Data Science and Machine Learning Essentials   
+# Data Science Essentials   
 ## Introduction to Data Science Technology  
 
-This folder contains introductory video lectures and slides to familiarize students with the basic theory and practice of data science. 
-
-There are no labs to accompany this material. 
-
+This folder contains introductory video lectures and slides to familiarize students with principle of Data Science and Data Science Technologies.
 
 ## Slides  
 
@@ -20,11 +17,7 @@ There are no labs to accompany this material.
 
 Videos introducing both data science theory and practice can be found by following the links provided. 
 
-- **[Introduction to Data Science](https://onedrive.live.com/redir?resid=6BF160785906F8C!241&authkey=!AGe55blNOoqUZJE&ithint=video%2cmp4)** introduces the lecturers and the overall structure of the material.
-- **[Overview of the Data Science Process](https://onedrive.live.com/redir?resid=6BF160785906F8C!240&authkey=!AHQr3p4cyfNoAHE&ithint=video%2cmp4)** introduces the the process data scientists use to approach problems. Historical approaches and ideas are discussed as well. 
-- **[Examples of the Data Science Process](https://onedrive.live.com/redir?resid=6BF160785906F8C!140&authkey=!APNdSQNuBSBm9B0&ithint=video%2cmp4)** discusses real-world examples of approaches to data science problems. 
-- **[What is Machine Learning](https://onedrive.live.com/redir?resid=6BF160785906F8C!141&authkey=!AMqSMLmt0c52ivc&ithint=video%2cmp4)** discusses the principles and ideas behind machine learning. 
-- **[Introduction to Regression](https://onedrive.live.com/redir?resid=6BF160785906F8C!142&authkey=!APSvTENgbt5Gdq8&ithint=video%2cmp4)** is an introduction to the theory of regression and prediction. 
-- **[Statistical Learning Theory for Supervised Learning](https://onedrive.live.com/redir?resid=6BF160785906F8C!143&authkey=!AIstSAboK2mwZng&ithint=video%2cmp4)** provides an overview of the theory of supervised learning.  
-- **[Unsupervised Learning](https://onedrive.live.com/redir?resid=6BF160785906F8C!144&authkey=!AGiTe7x2OyKeY6k&ithint=video%2cmp4)** provides an overview of the theory of unsupervised learning and clustering methods. 
-- **[Introduction to Recommenders](https://onedrive.live.com/redir?resid=6BF160785906F8C!145&authkey=!AAbvCjhJAfSyQ30&ithint=video%2cmp4)** presents an overview of the theory of recommenders and collaborative filtering.  
+- **[Course Introduction](https://youtu.be/pRgsssnHfx4)** introduces the course.
+- **[Setting up Azure Machine Learning](https://youtu.be/im6zWhDFL9Y)** Shows you somethings students need to know to setup thier environments so they can do the exercises for the course.
+- **[Installing R](https://youtu.be/ANua7PtyMcw)** Shows how to set up R Open and R Studio.
+- **[Installing Python](https://youtu.be/ANua7PtyMcw)** Shows how to set up Anaconda and Spyder to use Python to do the exercises
