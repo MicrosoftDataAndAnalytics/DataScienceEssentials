@@ -40,13 +40,13 @@ Videos introducing both data science theory and practice can be found by followi
 - **[Installing R](https://youtu.be/ANua7PtyMcw)** Shows how to set up R Open and R Studio.
 - **[Installing Python](https://youtu.be/ZxflRT5vhos)** Shows how to set up Anaconda and Spyder to use Python to do the exercises
 
-**Basics**
+**Foundationa and Concepts**
 
 - **[Data Analytic Thinking](https://youtu.be/a67awjtgEJU)** Talks about  data analytic thinking which is a process whereby organizations think about their data assets and use those assets to transform how they do whatever it is they do.
 - **[The Data Science Process](https://youtu.be/9Y_K49SA4YY)**  Talks about the data science process and in particular gives historical notes on the KDD process, the CRISP-DM process, Big Data and Data Science and their relationships to Data Mining and Machine Learning.
 - **[An Overview of Data Science Technology](https://youtu.be/bmXL5ZYQzy8)** Gives a broad overview of data science technology, including the technologies used in this course.
 
-**Azure ML **
+**Azure ML**
 
 - **[Azure Machine Learning](https://youtu.be/udw7GcZSlpA)** Talks about Azure Machine Learning and why the reasons for using it.
 - **[Using Code in Azure ML](https://youtu.be/6aOs8Jgvqdw)** Continues with building the experiment from the previous video and adds some custom Python, R and SQL code in modules to that workflow.
