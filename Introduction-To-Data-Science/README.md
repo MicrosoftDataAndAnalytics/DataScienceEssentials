@@ -28,4 +28,4 @@ Videos introducing both data science theory and practice can be found by followi
 - **[Using Code in Azure ML](https://youtu.be/6aOs8Jgvqdw)** Continues with building the experiment from the previous video and adds some custom Python, R and SQL code in modules to that workflow.
 - **[Using R in Jupyter Notebooks](https://youtu.be/jzzO84eWNRE)** A demo that shows a very cool feature of Azure Machine Learning, namely the ability to open and work with data sets using a Jupiter notebook with an R kernel.
 - **[Using Python in Jupyter Notebook](https://youtu.be/yqK9czQS_oE)** A demo that shows a very cool feature of Azure Machine Learning, namely the ability to work with your data from your experiment in a Jupyter Notebook using Python.
-- 
+- **[Creating a Machine Learning Model](https://youtu.be/RgjCvGbmaEE)** Complete the experiment from the previous video by adding a machine learning model.
