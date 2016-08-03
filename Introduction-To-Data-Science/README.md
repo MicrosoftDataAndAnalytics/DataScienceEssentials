@@ -13,6 +13,17 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 **Introduction to Machine Learning** introduces students to the basic concepts of machine learning theory. [NEED LINK]
 
+## Labs
+
+**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
+
+## Labs
+
+**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
+
+## Code
+
+**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
 ## Videos  
 
 Videos introducing both data science theory and practice can be found by following the links provided. 
