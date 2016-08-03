@@ -15,7 +15,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-Lab 1 - Getting Started with Azure Machine Learning. 
+**Lab 1 - Getting Started with Azure Machine Learning** 
 
 In this lab, you will learn how to open and navigate the Microsoft Azure Machine Learning (Azure ML) Studio. You will also learn how to create and run experiments in Azure ML.
 
