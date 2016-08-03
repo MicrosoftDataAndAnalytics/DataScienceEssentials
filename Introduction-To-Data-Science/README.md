@@ -21,7 +21,9 @@ Lab 1 - Getting Started with Azure Machine Learning. In this lab, you will learn
 
 This lab uses one data set:
 
-Credit-Scoring-Clean.csv - contains 950 customer cases. The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
+The customers credit scores for 950 customers are in *Credit-Scoring-Clean.csv*
+
+The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
 https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
