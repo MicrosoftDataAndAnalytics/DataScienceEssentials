@@ -30,9 +30,9 @@ https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 The code for Lab1 are in the following files:
 
--dropcols.R
--dropcols.py
--selectcols.SQL
+- dropcols.R
+- dropcols.py
+- selectcols.SQL
 
 ## Videos  
 
