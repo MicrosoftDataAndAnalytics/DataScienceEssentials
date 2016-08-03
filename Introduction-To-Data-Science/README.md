@@ -41,12 +41,6 @@ The code for Lab1 are in the following files:
 - Solution 1 [Need Link]
 - Solution 2 [Need Link]
 
-The code for Lab1 are in the following files:
-
-- dropcols.R
-- dropcols.py
-- selectcols.sql
-- 
 ## Videos  
 
 Videos introducing both data science theory and practice can be found by following the links provided. 
