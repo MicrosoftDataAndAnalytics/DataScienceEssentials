@@ -28,7 +28,12 @@ https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
-**Introduction to Data Science** provides a high-level overview of data science theory. [NEED LINK]
+The code for Lab1 are in the following files:
+
+-dropcols.R
+-dropcols.py
+-selectcols.SQL
+
 ## Videos  
 
 Videos introducing both data science theory and practice can be found by following the links provided. 
