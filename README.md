@@ -67,20 +67,6 @@ This section contains a summary of the contents of each folder.
 - [**Introduction to Machine Learning**](https://https://github.com/snapanalytx/Data-Science-Essentials/tree/master/Introduction-to-Machine-Learning) contains an introduction to concepts such as *supervised* and *unsupervised learning* and how to use Azure Machine Learning to build  Classification, Regression and Clustering models. Students are also introduced to Azure ML Web Services. The labs teaches how to use Azure Machine Learning to train, evaluate, and publish a classification model, a regression model, and a clustering model.
  
 
-
-## Labs for Business Users  
-
-The following labs are suitable for business users or business students and require no programming skills:  
-
-- **Lab I1** in the [Introduction Data Science Technology](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Introduction%20to%20Data%20Science%20Technology) folder walks students thought building a first machine learning model. After the **Setup** process has been completed, this lab is the best starting point for all students
--  **Lab I2** in the [Introduction Data Science Technology](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Introduction%20to%20Data%20Science%20Technology) folder walks students though uploading data files and performing joins in Azure ML. 
-- **Lab C1** in the [Classification](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Classification) folder, where students create and evaluate machine learning models to classify bank credit customers as good or bad. 
-- **Lab C2** in the [Classification](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Classification) folder, where students classify customers as interested or not in an offer.
-- **Lab F1** in the [Recommenders](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Recommenders) folder, where students and construct and evaluate a movie recommender. 
-- **Lab R1** in the [Regression](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Regression) folder, where students construct and evaluate a simple time series forecasting model. 
-- **Lab U1** in the [Clustering](https://github.com/AzureDataScienceCurriculum/DataScienceEssentials/tree/master/Clustering) folder provides students with a hands-on overview of unsupervised learning using k-means clustering. 
-
-
 ## Labs for Technical Users using R or Python
 
 The following labs teach students advanced techniques using the the R or Python language. Each of these labs offer parallel tracks for either R or Python language users.  
