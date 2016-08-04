@@ -49,7 +49,7 @@ Videos introducing both data science theory and practice can be found by followi
 
 **Setup**
 
-- **[Course Introduction](https://youtu.be/pRgsssnHfx4)** introduces the course.
+- **[Course Introduction] (https://youtu.be/pRgsssnHfx4)** introduces the course.
 - **[Setting up Azure Machine Learning](https://youtu.be/im6zWhDFL9Y)** shows somethings students need to know to setup thier environments so they can do the exercises for the course.
 - **[Installing R](https://youtu.be/ANua7PtyMcw)** shows how to set up R Open and R Studio.
 - **[Installing Python](https://youtu.be/ZxflRT5vhos)** shows how to set up Anaconda and Spyder to use Python to do the exercises
