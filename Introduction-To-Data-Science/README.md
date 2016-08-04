@@ -54,7 +54,7 @@ Videos introducing both data science theory and practice can be found by followi
 - **[Installing R](https://youtu.be/ANua7PtyMcw)** shows how to set up R Open and R Studio.
 - **[Installing Python](https://youtu.be/ZxflRT5vhos)** shows how to set up Anaconda and Spyder to use Python to do the exercises
 
-**Foundationa and Concepts**
+**Foundational Concepts**
 
 - **[Data Analytic Thinking](https://youtu.be/a67awjtgEJU)** talks about  data analytic thinking which is a process whereby organizations think about their data assets and use those assets to transform how they do whatever it is they do.
 - **[The Data Science Process](https://youtu.be/9Y_K49SA4YY)**  talks about the data science process and in particular gives historical notes on the KDD process, the CRISP-DM process, Big Data and Data Science and their relationships to Data Mining and Machine Learning.
