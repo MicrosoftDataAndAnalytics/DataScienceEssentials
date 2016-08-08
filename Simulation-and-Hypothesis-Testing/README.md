@@ -22,7 +22,7 @@ distributions.
 
 ## Data
 
-This lab does not use an data sets.
+This lab does not use any data sets.
 
 ## Code
 
