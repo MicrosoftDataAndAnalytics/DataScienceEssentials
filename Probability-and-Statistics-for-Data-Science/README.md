@@ -63,7 +63,7 @@ Videos introducing both probability & random varaibles as well as statistcs can 
 - **[Summary Statistics](https://youtu.be/7p5FhPDOauM)** explains how to calculate, plot and interpret summary statistics, like the mean, median, variance, standard devation and more.
 - **[Viewing Summary Statistics in R](https://yotu.be/Y6OqP_PNazY)** demonstrates how to calcualte and visualize summary statistics in R 
 - **[Viewing Summary Statistics in Python](https://youtu.be/IzuW8QwXruY)** demonstrates how to calcualte and visualize summary statistics in Python.
-- **[Z-Scores](https://youtu.be/2lQlp-hQC3o)** combines the concept taught summary statistics and probability distributions by introducing Z-Scores.
+- **[Z-Scores](https://youtu.be/2lQlp-hQC3o)** combines the concepts taught in the videos about summary statistics and probability distributions by introducing Z-Scores.
 - **[Correlation](https://youtu.be/C5nbnCof6HQ)** teaches how to determine the strength of a relationship between two variables using correlation.
 - **[Viewing Correlation in R](https://youtu.be/GRUDouFrVdM)** demonstrates how to calculate and display correlation in R
 - **[Viewing Correlation in Python](https://youtu.be/nZMsVdSS4TY)** demonstrates how to calculate and display correlation in Python
