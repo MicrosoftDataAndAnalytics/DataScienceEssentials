@@ -52,7 +52,6 @@ Videos introducing both probability & random varaibles as well as statistcs can 
 - **[Discrete Probability Distributions](https://youtu.be/fbFXd6awAGQ)** expands on the previous video and introduces the concept of binomial distributions.
 - **[Binomial Distribution Examples](https://youtu.be/lGAyGrGigUI)** shows some examples of binomial distributions and calculations.
 - **[Poisson Distributions](https://youtu.be/ushE005E0cI)** introduces the Poisson distriubtion, a limiting version of the binomial distribution.
-- **[Poisson Distributions](https://youtu.be/ushE005E0cI)** introduces the Poisson distriubtion, a limiting version of the binomial distribution.
 - **[Continuous Probability Distributions](https://youtu.be/MZlC-r10X60)** further explores distributions, specifically continuous probability distributions.
 - **[Cumulative Distribution Functions](https://youtu.be/2F5dYCkqMoI)** demonstrates concepts and calculations relating to cumulative distribution functions.
 - **[Central Limit Theorem](https://youtu.be/I2illL56n0w)** talks about the application and theory behind the Central Limit Theorem.
