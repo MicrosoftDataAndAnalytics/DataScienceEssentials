@@ -1,6 +1,6 @@
 READEME for Probabibility and Statistics for Data Science
 # Data Science Essentials   
-## Probability and Statistics for Data Science 
+## Module 2: Probability and Statistics for Data Science 
 
 This folder contains introductory video lectures and slides to familiarize students with principles of random variables and probability calculations, as well as discrete and continuous random distributions.
 
