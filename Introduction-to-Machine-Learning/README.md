@@ -2,7 +2,7 @@
 README for Introduction to Machine Learning
 
 # Data Science Essentials   
-## Module 5: Introduction to Machine Learning
+## Module 6: Introduction to Machine Learning
 
 This folder contains introductory video lectures to familiarize students with the principles of machine learning 
 
