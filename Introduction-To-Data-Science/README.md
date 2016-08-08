@@ -1,7 +1,7 @@
 
 
 # Data Science Essentials   
-## Module 1:Introduction to Data Science Technology  
+## Module 1: Introduction to Data Science Technology  
 
 This folder contains introductory video lectures and slides to familiarize students with principle of Data Science and Data Science Technologies.
 
