@@ -26,7 +26,7 @@ This lab does not use any data sets.
 
 ## Code
 
-The code for Lab1 are in the following files:
+The code for Lab 3 are in the following files:
 
 - restsim.R
 - restsim.py
