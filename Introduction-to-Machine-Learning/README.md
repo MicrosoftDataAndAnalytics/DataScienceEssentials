@@ -57,7 +57,7 @@ Videos introducing both machine learning theory and practice can be found by fol
 - **[Clustering](https://youtu.be/2FsaiaxcQ24)** talks about unsupervised learning problems, like clustering.
 - **[K-Means Clustering](https://youtu.be/zuIWQ8Jv9tc)** expands on the concepts of clustering, specifically K-Means clustering
 
-- **Publishing a Machine Learning Web Service**
+**Publishing a Machine Learning Web Service**
 
 - **[Overview of Publishing a Web Service](https://youtu.be/FmXwI7NwJww)** describes how to publish a machine learning model using the tools in Azure Machine Learning.
 - **[Demo: Publishing a Web Service](https://youtu.be/niaH0l_glhU)** is a step by step demonstration of how to publish a machine learning web service.
