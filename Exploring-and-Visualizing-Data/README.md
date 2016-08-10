@@ -26,8 +26,6 @@ Automobile price data for 205 vehicles is in *Automobile price data_Raw_.csv*
 
 Census income data is in *Adult Census Income Binary Classification.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
