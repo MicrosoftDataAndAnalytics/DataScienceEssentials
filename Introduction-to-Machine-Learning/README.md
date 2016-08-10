@@ -27,12 +27,10 @@ This lab uses two data sets:
 
 Automobile make and model data is in *makes.csv* and *autos.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
-The code for Lab1 are in the following files:
+The code for Lab 6 are in the following files:
 
 - PrepAutos.R
 - PrepAutos.py
@@ -58,8 +56,8 @@ Videos introducing both machine learning theory and practice can be found by fol
 - **[Creating a Regression Model](https://youtu.be/R1UE7heZ-Tc)** demonstrates a practical example of constructing and evaluating a regression model.
 - **[Clustering](https://youtu.be/2FsaiaxcQ24)** talks about unsupervised learning problems, like clustering.
 - **[K-Means Clustering](https://youtu.be/zuIWQ8Jv9tc)** expands on the concepts of clustering, specifically K-Means clustering
-- 
-**Publishing a Machine Learning Web Service**
+
+- **Publishing a Machine Learning Web Service**
 
 - **[Overview of Publishing a Web Service](https://youtu.be/FmXwI7NwJww)** describes how to publish a machine learning model using the tools in Azure Machine Learning.
 - **[Demo: Publishing a Web Service](https://youtu.be/niaH0l_glhU)** is a step by step demonstration of how to publish a machine learning web service.
