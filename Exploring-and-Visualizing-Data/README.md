@@ -14,7 +14,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Labs
 
-**Lab 3 - Visualization** 
+**Lab 4 - Visualization** 
 
 In this lab, you will learn how to use R or Python to visualize and explore data.
 
@@ -31,7 +31,7 @@ https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
 
 ## Code
 
-The code for Lab1 are in the following files:
+The code for Lab 4 are in the following files:
 
 - ExploreAutos.R
 - ExploreAutos.py
@@ -42,7 +42,7 @@ The code for Lab1 are in the following files:
 
 ## Gallery
 
-**Lab 3** full solution can be found in the Azure ML Gallery
+**Lab 4** full solution can be found in the Azure ML Gallery
 
 - Solution 1 [Need Link]
 - Solution 2 [Need Link]
