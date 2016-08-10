@@ -29,7 +29,7 @@ A related list of car manufacturers is in *makes.csv*
 
 ## Code
 
-The code for Lab 1 are in the following files:
+The code for Lab 5 are in the following files:
 
 - FilterOutliers.R
 - FilterOutliers.py
@@ -65,7 +65,7 @@ Videos introducing the concepts behind data cleansing and manipulation as well d
 - **[Demo: Joins in Python](https://youtu.be/AzWOqRwW18s)** is a demonstration of doing Joins using Python
 
 
-** Data Cleansing**
+**Data Cleansing**
 
 - **[Overview of Data Cleansing](https://youtu.be/L4SuMpv40yM)** a brief overview of various data cleaning and tranformation processes.
 - **[Missing and Repeated Values](https://youtu.be/Io-K587gyIs)** explains how to handle the common issue of missing and repeated values
