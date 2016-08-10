@@ -24,12 +24,9 @@ This lab uses one data set:
 
 Automobile prices for 205 vehicles are in *Automobile price data_Raw_.csv*
 
-The information in some of these features (columns) is in a coded format; e.g. A14, A11. You can see the meaning of these codes on the UCI Machine Learning repository at
-https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data).
-
 ## Code
 
-The code for Lab1 are in the following files:
+The code for Lab 2 are in the following files:
 
 - Stats.R
 - Stats.py
