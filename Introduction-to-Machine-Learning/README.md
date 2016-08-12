@@ -8,11 +8,7 @@ This folder contains introductory video lectures to familiarize students with th
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+**Introduction to Machine Learning** introduces the concept and theory behind of machine learning
 
 ## Labs
 
