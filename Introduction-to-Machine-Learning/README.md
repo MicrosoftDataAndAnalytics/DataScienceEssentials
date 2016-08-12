@@ -37,10 +37,10 @@ The code for Lab 6 are in the following files:
 
 ## Gallery
 
-**Lab 6** full solution can be found in the Azure ML Gallery
+**Lab 6** full solution can be found in the Azure ML Gallery:
 
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
+-[Web Service (Python) [Scoring Exp.]](http://gallery.azureml.net/Details/cb808a57e4e34a569436703b35b1994b)  
+-[Web Service (R) [Scoring Exp.]](http://gallery.azureml.net/Details/a9c4eb613e4a45a4921967cf7882c89d)
 
 ## Videos  
 
