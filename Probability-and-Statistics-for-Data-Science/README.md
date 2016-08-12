@@ -4,14 +4,6 @@ READEME for Probabibility and Statistics for Data Science
 
 This folder contains introductory video lectures and slides to familiarize students with principles of random variables and probability calculations, as well as discrete and continuous random distributions.
 
-## Slides  
-
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
-
 ## Labs
 
 **Lab 2 - Working with Summary Statistics** 
@@ -30,13 +22,6 @@ The code for Lab 2 are in the following files:
 
 - Stats.R
 - Stats.py
-
-## Gallery
-
-**Lab 2** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
