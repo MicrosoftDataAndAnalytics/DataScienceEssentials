@@ -6,11 +6,7 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+**Data Visualization and Exploration** introduces data visualization techniques.
 
 ## Labs
 
@@ -37,13 +33,6 @@ The code for Lab 4 are in the following files:
 - ExploreIncome.py
 - LoadAutos.R
 - LoadAutos.py
-
-## Gallery
-
-**Lab 4** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
