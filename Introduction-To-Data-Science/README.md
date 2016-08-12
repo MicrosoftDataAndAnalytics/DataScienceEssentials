@@ -7,11 +7,9 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
+**Introduction to Data Science**  introduces the course and the overarhcing concepts and goals of data science.
 
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
+**Introduction to Data Science Technologies**  introduces some of the tools and methods used to perform data science experiments.
 
 ## Labs
 
