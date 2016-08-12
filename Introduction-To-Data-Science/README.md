@@ -38,10 +38,7 @@ The code for Lab1 are in the following files:
 
 ## Gallery
 
-**Lab 1** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
+**Lab 1** full solution can be found in the Azure ML Gallery **[here](https://gallery.cortanaintelligence.com/Experiment/Bank-Credit-1)**
 
 ## Videos  
 
