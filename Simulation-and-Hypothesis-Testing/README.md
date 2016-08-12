@@ -4,14 +4,6 @@ README for Simulation and Hypothesis Testing
 
 This folder contains introductory video lectures and slides to familiarize students with running simulations that model large quantities of data and core data science skills including working with confidence intervals and hypothesis testing to understand the statistical likelihood of the conclusions drawn from the data. 
 
-## Slides  
-
-**SLIDE 1**  [NEED SLIDES]
-
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
-
 ## Labs
 
 **Lab 3 - Simulation** 
@@ -32,11 +24,6 @@ The code for Lab 3 are in the following files:
 - restsim.py
 
 ## Gallery
-
-**Lab 3** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
