@@ -6,11 +6,8 @@ This folder contains introductory video lectures and slides to familiarize stude
 
 ## Slides  
 
-**SLIDE 1**  [NEED SLIDES]
+**Data Cleansing and Manipulation** describes techniques to clean a dataset in order to get the best results out of it. 
 
-**SLIDE 2**  [NEED SLIDES]
-
-**SLIDE 3**  [NEED SLIDES]
 
 ## Labs
 
@@ -44,13 +41,6 @@ The code for Lab 5 are in the following files:
 - PrepData.py
 - PrepData.R
 - PrepData.sql
-
-## Gallery
-
-**Lab 5** full solution can be found in the Azure ML Gallery
-
-- Solution 1 [Need Link]
-- Solution 2 [Need Link]
 
 ## Videos  
 
